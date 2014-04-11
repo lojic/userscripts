@@ -6,6 +6,8 @@
 // @include        https://twitter.com/*
 // ==/UserScript==
 
+// Hide the trends area from the Twitter web UI
+
 var GM_addGlobalStyle = function(css) {
   var sel=document.createElement('style'); 
   sel.setAttribute('type','text/css'); 
