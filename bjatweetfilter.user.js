@@ -6,6 +6,14 @@
 // @include        https://twitter.com/*
 // ==/UserScript==
 
+// This userscript allows hiding tweets that contain specified
+// keywords. To install, first copy/paste jQuery 2.1.0 where indicated
+// below. To use, simply append a search string to the Twitter URL to
+// specify the keywords as follows:
+// https://twitter.com/?keywords=RunKeeper,opportunity,kittens
+//
+// You could bookmark the URL for ease of use.
+
 // VVV Copy/paste jQuery 2.1.0 below here before installing userscript
 
 // ^^^ Copy/paste jQuery 2.1.0 above here before installing userscript
